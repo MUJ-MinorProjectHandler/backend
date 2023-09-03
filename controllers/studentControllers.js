@@ -1,6 +1,15 @@
 const faculty = require("../models/facultySchema");
 const student = require("../models/studentSchema");
+const nodemailer = require("nodemailer");
 
+
+const transporter = nodemailer.createTransport({
+    service: "gmail",
+    auth: {
+      user: process.env.EMAIL,
+      pass: process.env.PASSWORD,
+    },
+  });
 
 exports.studentInfo = async(req,res)=>{
     const stuInfo = await student.findOne({ email: req.params.email });
@@ -50,6 +59,23 @@ exports.generateRequest = async (req,res)=>{
                 returnOriginal: false
               });
             await updateData.save();
+            const mailOption = {
+                from: process.env.EMAIL,
+                to: femail,
+                subject: "Minor Project Application Request",
+                text: `${facultyname.name},
+                You have recieved a request from ${Student.name} to work under you, please open the minor project portal and take the nessessary action.`,
+              };
+        
+              transporter.sendMail(mailOption, (error, info) => {
+                if (error) {
+                  console.log("error", error);
+                  res.status(400).json({ error: "Email not sent" });
+                } else {
+                  console.log("Email sent", info.response);
+                  res.status(200).json({ message: "Email sent sucessfully" });
+                }
+              });
             // console.log(Student);
             res.status(204);
         }

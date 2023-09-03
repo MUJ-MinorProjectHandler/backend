@@ -55,7 +55,9 @@ router.post("/admin/rejectstudent", adminControllers.rejectStudent)
 
 router.get("/admin/fulllist", adminControllers.getStudents)
 
-router.get("/admin/download", adminControllers.downsheet)
+router.get("/admin/downloadstudent", adminControllers.downsheetstudent)
+
+router.get("/admin/downloadfaculty", adminControllers.downsheetfaculty)
 
 router.get("/admin/findmaxnum", adminControllers.findMaxNum)
 

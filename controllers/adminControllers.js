@@ -146,7 +146,7 @@ exports.getStudents = async (req, res) => {
   }
 };
 
-exports.downsheet = async (req, res) => {
+exports.downsheetstudent = async (req, res) => {
   try {
     const Student = await student.find();
 
@@ -163,14 +163,14 @@ exports.downsheet = async (req, res) => {
     }
 
     const writablestream = fs.createWriteStream(
-      "public/files/export/minor_project_list.csv"
+      "public/files/export/minor_project_list_student.csv"
     );
 
     csvStream.pipe(writablestream);
 
     writablestream.on("finish", function () {
       res.json({
-        downloadUrl: `${BACKEND_URL}/files/export/minor_project_list.csv`,
+        downloadUrl: `${BACKEND_URL}/files/export/minor_project_list_student.csv`,
       });
     });
 
@@ -185,6 +185,57 @@ exports.downsheet = async (req, res) => {
           status: student.status ? student.status : "-",
           faculty_mail: student.faculty_mail ? student.faculty_mail : "-",
           faculty_name: student.faculty_name ? student.faculty_name : "-",
+        });
+      });
+    }
+    csvStream.end();
+    writablestream.end();
+  } catch (error) {
+    console.log(error);
+    res.status(401).json(error);
+  }
+};
+
+exports.downsheetfaculty = async (req, res) => {
+  try {
+    const Faculty = await faculty.find();
+
+    const csvStream = CSV.format({ headers: true });
+
+    if (!fs.existsSync("public/files/export")) {
+      if (!fs.existsSync("public/files")) {
+        fs.mkdirSync("public/files/");
+      }
+
+      if (!fs.existsSync("public/files/export")) {
+        fs.mkdirSync("./public/files/export");
+      }
+    }
+
+    const writablestream = fs.createWriteStream(
+      "public/files/export/minor_project_list_faculty.csv"
+    );
+
+    csvStream.pipe(writablestream);
+
+    writablestream.on("finish", function () {
+      res.json({
+        downloadUrl: `${BACKEND_URL}/files/export/minor_project_list_faculty.csv`,
+      });
+    });
+
+    if (Faculty.length > 0) {
+      Faculty.map((faculty) => {
+        csvStream.write({
+          name: faculty.name ? faculty.name : "-",
+          email: faculty.email ? faculty.email : "-",
+          description_link: faculty.description_link
+            ? faculty.description_link
+            : "-",
+          noOfStudent: faculty.noOfStudent,
+          full: faculty.full,
+          // noOfStudent: faculty.noOfStudent ? faculty.noOfStudent : "-",
+          // full: faculty.full ? faculty.full : "-",
         });
       });
     }
