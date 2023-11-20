@@ -1,269 +1,201 @@
-name,email,registration_number,status,faculty_mail,faculty_name
-devshalin,dev.219301509@muj.manipal.edu,219301509,pending,_mail_,_name_
-deagrawal,devagrawaltp@gmail.com,219301510,pending,_mail_,_name_
-qwer,devagrawaltp1@gmail.com,219301511,pending,_mail_,_name_
-qwere,devagrawaltp2@gmail.com,219301512,pending,_mail_,_name_
-qwerty,devagrawaltp3@gmail.com,219301513,pending,_mail_,_name_
-qwertyu,devagrawaltp4@gmail.com,219301514,pending,_mail_,_name_
-ertyui,devagrawaltp5@gmail.com,219301515,pending,_mail_,_name_
-edr,devagrawaltp6@gmail.com,219301516,pending,_mail_,_name_
-ghnbh,devagrawaltp7@gmail.com,219301517,pending,_mail_,_name_
-cedx,devagrawaltp8@gmail.com,219301518,pending,_mail_,_name_
-xed2,devagrawaltp9@gmail.com,219301519,pending,_mail_,_name_
-x2ed,devagrawaltp10@gmail.com,219301520,pending,_mail_,_name_
-x2ed,devagrawaltp11@gmail.com,219301521,pending,_mail_,_name_
-x2ed,devagrawaltp12@gmail.com,219301522,pending,_mail_,_name_
-2x3,devagrawaltp13@gmail.com,219301523,pending,_mail_,_name_
-wsxedcfr,devagrawaltp14@gmail.com,219301524,pending,_mail_,_name_
-fcetgrbhy,devagrawaltp15@gmail.com,219301525,pending,_mail_,_name_
-rgbhy,devagrawaltp16@gmail.com,219301526,pending,_mail_,_name_
-vtgrbhy,devagrawaltp17@gmail.com,219301527,pending,_mail_,_name_
-vtgrbhy,geebe@sbcglobal.net,219301528,pending,_mail_,_name_
-vtgrbhy,symbolic@optonline.net,219301529,pending,_mail_,_name_
-vtgrbhy,kassiesa@sbcglobal.net,219301530,pending,_mail_,_name_
-vtgrbhy,dogdude@yahoo.com,219301531,pending,_mail_,_name_
-vtgrbhy,bockelboy@icloud.com,219301532,pending,_mail_,_name_
-vtgrbhy,eimear@icloud.com,219301533,pending,_mail_,_name_
-vtgrbhy,jgwang@hotmail.com,219301534,pending,_mail_,_name_
-vtgrbhy,chronos@yahoo.com,219301535,pending,_mail_,_name_
-vtgrbhy,nighthawk@me.com,219301536,pending,_mail_,_name_
-vtgrbhy,morain@icloud.com,219301537,pending,_mail_,_name_
-vtgrbhy,joglo@live.com,219301538,pending,_mail_,_name_
-vtgrbhy,yangyan@att.net,219301539,pending,_mail_,_name_
-vtgrbhy,scottzed@icloud.com,219301540,pending,_mail_,_name_
-vtgrbhy,airship@yahoo.ca,219301541,pending,_mail_,_name_
-vtgrbhy,improv@sbcglobal.net,219301542,pending,_mail_,_name_
-vtgrbhy,ajohnson@gmail.com,219301543,pending,_mail_,_name_
-vtgrbhy,nweaver@yahoo.com,219301544,pending,_mail_,_name_
-vtgrbhy,conteb@att.net,219301545,pending,_mail_,_name_
-vtgrbhy,tbmaddux@outlook.com,219301546,pending,_mail_,_name_
-vtgrbhy,imightb@comcast.net,219301547,pending,_mail_,_name_
-vtgrbhy,pspoole@me.com,219301548,pending,_mail_,_name_
-vtgrbhy,kassiesa@yahoo.com,219301549,pending,_mail_,_name_
-vtgrbhy,pjacklam@outlook.com,219301550,pending,_mail_,_name_
-vtgrbhy,rhialto@yahoo.ca,219301551,pending,_mail_,_name_
-vtgrbhy,jusdisgi@icloud.com,219301552,pending,_mail_,_name_
-vtgrbhy,bhtower@outlook.com,219301553,pending,_mail_,_name_
-vtgrbhy,warrior@icloud.com,219301555,pending,_mail_,_name_
-vtgrbhy,tangsh@comcast.net,219301556,pending,_mail_,_name_
-vtgrbhy,lishoy@live.com,219301557,pending,_mail_,_name_
-vtgrbhy,tamas@icloud.com,219301558,pending,_mail_,_name_
-vtgrbhy,delpino@yahoo.com,219301559,pending,_mail_,_name_
-vtgrbhy,bryanw@gmail.com,219301560,pending,_mail_,_name_
-vtgrbhy,andrei@live.com,219301561,pending,_mail_,_name_
-vtgrbhy,osrin@verizon.net,219301562,pending,_mail_,_name_
-vtgrbhy,duchamp@outlook.com,219301563,pending,_mail_,_name_
-vtgrbhy,bflong@att.net,219301564,pending,_mail_,_name_
-vtgrbhy,fudrucker@aol.com,219301565,pending,_mail_,_name_
-vtgrbhy,osaru@aol.com,219301566,pending,_mail_,_name_
-vtgrbhy,hikoza@yahoo.com,219301567,pending,_mail_,_name_
-vtgrbhy,hakim@yahoo.ca,219301568,pending,_mail_,_name_
-vtgrbhy,henkp@mac.com,219301569,pending,_mail_,_name_
-vtgrbhy,jfinke@yahoo.com,219301570,pending,_mail_,_name_
-vtgrbhy,hmbrand@optonline.net,219301571,pending,_mail_,_name_
-vtgrbhy,dprice@verizon.net,219301572,pending,_mail_,_name_
-vtgrbhy,hllam@aol.com,219301573,pending,_mail_,_name_
-vtgrbhy,spadkins@aol.com,219301574,pending,_mail_,_name_
-vtgrbhy,oster@gmail.com,219301575,pending,_mail_,_name_
-vtgrbhy,rsteiner@yahoo.com,219301576,pending,_mail_,_name_
-vtgrbhy,rgarton@gmail.com,219301577,pending,_mail_,_name_
-vtgrbhy,chaffar@yahoo.ca,219301578,pending,_mail_,_name_
-vtgrbhy,djpig@optonline.net,219301579,pending,_mail_,_name_
-vtgrbhy,marnanel@live.com,219301580,pending,_mail_,_name_
-vtgrbhy,alhajj@optonline.net,219301581,pending,_mail_,_name_
-vtgrbhy,bcevc@mac.com,219301582,pending,_mail_,_name_
-vtgrbhy,eidac@mac.com,219301583,pending,_mail_,_name_
-vtgrbhy,unreal@live.com,219301584,pending,_mail_,_name_
-vtgrbhy,kewley@outlook.com,219301585,pending,_mail_,_name_
-vtgrbhy,william@msn.com,219301586,pending,_mail_,_name_
-vtgrbhy,henkp@att.net,219301587,pending,_mail_,_name_
-vtgrbhy,leocharre@att.net,219301588,pending,_mail_,_name_
-vtgrbhy,slanglois@mac.com,219301589,pending,_mail_,_name_
-vtgrbhy,zeitlin@icloud.com,219301590,pending,_mail_,_name_
-vtgrbhy,pereinar@optonline.net,219301591,pending,_mail_,_name_
-vtgrbhy,slaff@gmail.com,219301592,pending,_mail_,_name_
-vtgrbhy,storerm@me.com,219301593,pending,_mail_,_name_
-vtgrbhy,jespley@sbcglobal.net,219301594,pending,_mail_,_name_
-vtgrbhy,padme@att.net,219301595,pending,_mail_,_name_
-vtgrbhy,jginspace@aol.com,219301596,pending,_mail_,_name_
-vtgrbhy,leslie@optonline.net,219301597,pending,_mail_,_name_
-vtgrbhy,dartlife@msn.com,219301598,pending,_mail_,_name_
-vtgrbhy,nwiger@aol.com,219301599,pending,_mail_,_name_
-vtgrbhy,afifi@icloud.com,219301600,pending,_mail_,_name_
-vtgrbhy,sbmrjbr@att.net,219301601,pending,_mail_,_name_
-vtgrbhy,stakasa@sbcglobal.net,219301602,pending,_mail_,_name_
-vtgrbhy,pkilab@att.net,219301603,pending,_mail_,_name_
-vtgrbhy,webinc@live.com,219301604,pending,_mail_,_name_
-vtgrbhy,jshirley@outlook.com,219301605,pending,_mail_,_name_
-vtgrbhy,pemungkah@icloud.com,219301606,pending,_mail_,_name_
-vtgrbhy,tezbo@mac.com,219301607,pending,_mail_,_name_
-vtgrbhy,rtanter@yahoo.com,219301608,pending,_mail_,_name_
-vtgrbhy,ijackson@aol.com,219301609,pending,_mail_,_name_
-vtgrbhy,ismail@me.com,219301610,pending,_mail_,_name_
-vtgrbhy,jramio@att.net,219301611,pending,_mail_,_name_
-vtgrbhy,sburke@me.com,219301612,pending,_mail_,_name_
-vtgrbhy,steve@mac.com,219301613,pending,_mail_,_name_
-vtgrbhy,lahvak@live.com,219301614,pending,_mail_,_name_
-vtgrbhy,mallanmba@optonline.net,219301615,pending,_mail_,_name_
-vtgrbhy,horrocks@aol.com,219301616,pending,_mail_,_name_
-vtgrbhy,engelen@comcast.net,219301617,pending,_mail_,_name_
-vtgrbhy,maikelnai@gmail.com,219301618,pending,_mail_,_name_
-vtgrbhy,matty@me.com,219301619,pending,_mail_,_name_
-vtgrbhy,dawnsong@msn.com,219301620,pending,_mail_,_name_
-vtgrbhy,qrczak@yahoo.ca,219301621,pending,_mail_,_name_
-vtgrbhy,sisyphus@comcast.net,219301622,pending,_mail_,_name_
-vtgrbhy,animats@optonline.net,219301623,pending,_mail_,_name_
-vtgrbhy,attwood@msn.com,219301624,pending,_mail_,_name_
-vtgrbhy,gomor@mac.com,219301625,pending,_mail_,_name_
-vtgrbhy,augusto@att.net,219301626,pending,_mail_,_name_
-vtgrbhy,aschmitz@verizon.net,219301627,pending,_mail_,_name_
-vtgrbhy,snunez@icloud.com,219301628,pending,_mail_,_name_
-vtgrbhy,dgatwood@att.net,219301629,pending,_mail_,_name_
-vtgrbhy,suresh@verizon.net,219301630,pending,_mail_,_name_
-vtgrbhy,frederic@aol.com,219301631,pending,_mail_,_name_
-vtgrbhy,squirrel@optonline.net,219301632,pending,_mail_,_name_
-vtgrbhy,noticias@att.net,219301633,pending,_mail_,_name_
-vtgrbhy,codex@me.com,219301634,pending,_mail_,_name_
-vtgrbhy,kudra@gmail.com,219301635,pending,_mail_,_name_
-vtgrbhy,lahvak@me.com,219301636,pending,_mail_,_name_
-vtgrbhy,demmel@hotmail.com,219301637,pending,_mail_,_name_
-vtgrbhy,milton@msn.com,219301638,pending,_mail_,_name_
-vtgrbhy,hmbrand@hotmail.com,219301639,pending,_mail_,_name_
-vtgrbhy,pierce@yahoo.ca,219301640,pending,_mail_,_name_
-vtgrbhy,meinkej@att.net,219301641,pending,_mail_,_name_
-vtgrbhy,metzzo@comcast.net,219301642,pending,_mail_,_name_
-vtgrbhy,balchen@gmail.com,219301643,pending,_mail_,_name_
-vtgrbhy,konit@aol.com,219301644,pending,_mail_,_name_
-vtgrbhy,drolsky@yahoo.com,219301645,pending,_mail_,_name_
-vtgrbhy,jaffe@aol.com,219301646,pending,_mail_,_name_
-vtgrbhy,monkeydo@outlook.com,219301647,pending,_mail_,_name_
-vtgrbhy,goresky@yahoo.com,219301648,pending,_mail_,_name_
-vtgrbhy,mavilar@comcast.net,219301649,pending,_mail_,_name_
-vtgrbhy,atmarks@icloud.com,219301650,pending,_mail_,_name_
-vtgrbhy,zeller@optonline.net,219301651,pending,_mail_,_name_
-vtgrbhy,thaljef@icloud.com,219301652,pending,_mail_,_name_
-vtgrbhy,samavati@icloud.com,219301653,pending,_mail_,_name_
-vtgrbhy,mcraigw@me.com,219301654,pending,_mail_,_name_
-vtgrbhy,uqmcolyv@comcast.net,219301655,pending,_mail_,_name_
-vtgrbhy,psichel@msn.com,219301656,pending,_mail_,_name_
-vtgrbhy,leslie@sbcglobal.net,219301657,pending,_mail_,_name_
-vtgrbhy,chrisj@yahoo.com,219301658,pending,_mail_,_name_
-vtgrbhy,bahwi@aol.com,219301659,pending,_mail_,_name_
-vtgrbhy,cmdrgravy@mac.com,219301660,pending,_mail_,_name_
-vtgrbhy,drjlaw@msn.com,219301661,pending,_mail_,_name_
-vtgrbhy,inico@outlook.com,219301662,pending,_mail_,_name_
-vtgrbhy,jemarch@comcast.net,219301663,pending,_mail_,_name_
-vtgrbhy,jipsen@outlook.com,219301664,pending,_mail_,_name_
-vtgrbhy,noneme@att.net,219301665,pending,_mail_,_name_
-vtgrbhy,gslondon@outlook.com,219301666,pending,_mail_,_name_
-vtgrbhy,hahsler@gmail.com,219301667,pending,_mail_,_name_
-vtgrbhy,thassine@icloud.com,219301668,pending,_mail_,_name_
-vtgrbhy,tubesteak@yahoo.ca,219301669,pending,_mail_,_name_
-vtgrbhy,helger@me.com,219301670,pending,_mail_,_name_
-vtgrbhy,bdbrown@yahoo.com,219301671,pending,_mail_,_name_
-vtgrbhy,muadip@sbcglobal.net,219301672,pending,_mail_,_name_
-vtgrbhy,geekgrl@live.com,219301673,pending,_mail_,_name_
-vtgrbhy,fviegas@optonline.net,219301674,pending,_mail_,_name_
-vtgrbhy,liedra@verizon.net,219301675,pending,_mail_,_name_
-vtgrbhy,chunzi@att.net,219301676,pending,_mail_,_name_
-vtgrbhy,gospodin@outlook.com,219301677,pending,_mail_,_name_
-vtgrbhy,danneng@mac.com,219301678,pending,_mail_,_name_
-vtgrbhy,phish@yahoo.ca,219301679,pending,_mail_,_name_
-vtgrbhy,peoplesr@yahoo.com,219301680,pending,_mail_,_name_
-vtgrbhy,psharpe@verizon.net,219301681,pending,_mail_,_name_
-vtgrbhy,iapetus@me.com,219301682,pending,_mail_,_name_
-vtgrbhy,portele@me.com,219301683,pending,_mail_,_name_
-vtgrbhy,esbeck@aol.com,219301684,pending,_mail_,_name_
-vtgrbhy,klaudon@verizon.net,219301685,pending,_mail_,_name_
-vtgrbhy,schwaang@outlook.com,219301686,pending,_mail_,_name_
-vtgrbhy,pakaste@verizon.net,219301687,pending,_mail_,_name_
-vtgrbhy,thrymm@yahoo.ca,219301688,pending,_mail_,_name_
-vtgrbhy,ehood@verizon.net,219301689,pending,_mail_,_name_
-vtgrbhy,pgolle@hotmail.com,219301690,pending,_mail_,_name_
-vtgrbhy,frode@live.com,219301691,pending,_mail_,_name_
-vtgrbhy,skoch@verizon.net,219301692,pending,_mail_,_name_
-vtgrbhy,pgottsch@verizon.net,219301693,pending,_mail_,_name_
-vtgrbhy,alastair@gmail.com,219301694,pending,_mail_,_name_
-vtgrbhy,british@live.com,219301695,pending,_mail_,_name_
-vtgrbhy,ngedmond@mac.com,219301696,pending,_mail_,_name_
-vtgrbhy,cfhsoft@verizon.net,219301697,pending,_mail_,_name_
-vtgrbhy,sblack@me.com,219301698,pending,_mail_,_name_
-vtgrbhy,tellis@att.net,219301699,pending,_mail_,_name_
-vtgrbhy,adillon@gmail.com,219301700,pending,_mail_,_name_
-vtgrbhy,mbswan@aol.com,219301701,pending,_mail_,_name_
-vtgrbhy,british@yahoo.com,219301702,pending,_mail_,_name_
-vtgrbhy,chaikin@aol.com,219301703,pending,_mail_,_name_
-vtgrbhy,saridder@verizon.net,219301704,pending,_mail_,_name_
-vtgrbhy,damian@sbcglobal.net,219301705,pending,_mail_,_name_
-vtgrbhy,neonatus@live.com,219301706,pending,_mail_,_name_
-vtgrbhy,gemmell@gmail.com,219301707,pending,_mail_,_name_
-vtgrbhy,kramulous@comcast.net,219301708,pending,_mail_,_name_
-vtgrbhy,fviegas@msn.com,219301709,pending,_mail_,_name_
-vtgrbhy,yfreund@comcast.net,219301710,pending,_mail_,_name_
-vtgrbhy,curly@msn.com,219301711,pending,_mail_,_name_
-vtgrbhy,bogjobber@live.com,219301712,pending,_mail_,_name_
-vtgrbhy,johnh@yahoo.com,219301713,pending,_mail_,_name_
-vtgrbhy,lridener@live.com,219301714,pending,_mail_,_name_
-vtgrbhy,mddallara@mac.com,219301715,pending,_mail_,_name_
-vtgrbhy,ebassi@msn.com,219301716,pending,_mail_,_name_
-vtgrbhy,stefano@live.com,219301717,pending,_mail_,_name_
-vtgrbhy,attwood@mac.com,219301718,pending,_mail_,_name_
-vtgrbhy,mrdvt@live.com,219301719,pending,_mail_,_name_
-vtgrbhy,noahb@hotmail.com,219301720,pending,_mail_,_name_
-vtgrbhy,suresh@yahoo.com,219301721,pending,_mail_,_name_
-vtgrbhy,pakaste@hotmail.com,219301722,pending,_mail_,_name_
-vtgrbhy,weidai@aol.com,219301723,pending,_mail_,_name_
-vtgrbhy,schumer@live.com,219301724,pending,_mail_,_name_
-vtgrbhy,johnbob@verizon.net,219301725,pending,_mail_,_name_
-vtgrbhy,mwandel@msn.com,219301726,pending,_mail_,_name_
-vtgrbhy,dbanarse@verizon.net,219301727,pending,_mail_,_name_
-vtgrbhy,torgox@mac.com,219301728,pending,_mail_,_name_
-vtgrbhy,codex@gmail.com,219301729,pending,_mail_,_name_
-vtgrbhy,lbecchi@hotmail.com,219301730,pending,_mail_,_name_
-vtgrbhy,drolsky@me.com,219301731,pending,_mail_,_name_
-vtgrbhy,damian@comcast.net,219301732,pending,_mail_,_name_
-vtgrbhy,penna@sbcglobal.net,219301733,pending,_mail_,_name_
-vtgrbhy,yzheng@optonline.net,219301734,pending,_mail_,_name_
-vtgrbhy,gtaylor@yahoo.com,219301735,pending,_mail_,_name_
-vtgrbhy,william@sbcglobal.net,219301736,pending,_mail_,_name_
-vtgrbhy,arnold@verizon.net,219301737,pending,_mail_,_name_
-vtgrbhy,wbarker@outlook.com,219301738,pending,_mail_,_name_
-vtgrbhy,emmanuel@verizon.net,219301739,pending,_mail_,_name_
-vtgrbhy,naupa@live.com,219301740,pending,_mail_,_name_
-vtgrbhy,fmerges@yahoo.ca,219301741,pending,_mail_,_name_
-vtgrbhy,stomv@outlook.com,219301742,pending,_mail_,_name_
-vtgrbhy,bastian@live.com,219301743,pending,_mail_,_name_
-vtgrbhy,geeber@outlook.com,219301744,pending,_mail_,_name_
-vtgrbhy,bmcmahon@me.com,219301745,pending,_mail_,_name_
-vtgrbhy,michiel@hotmail.com,219301746,pending,_mail_,_name_
-vtgrbhy,dbrobins@att.net,219301747,pending,_mail_,_name_
-vtgrbhy,malin@sbcglobal.net,219301748,pending,_mail_,_name_
-vtgrbhy,webinc@att.net,219301749,pending,_mail_,_name_
-vtgrbhy,boomzilla@optonline.net,219301750,pending,_mail_,_name_
-vtgrbhy,purvis@live.com,219301751,pending,_mail_,_name_
-vtgrbhy,rfisher@icloud.com,219301752,pending,_mail_,_name_
-vtgrbhy,dsowsy@msn.com,219301753,pending,_mail_,_name_
-vtgrbhy,mgreen@outlook.com,219301754,pending,_mail_,_name_
-vtgrbhy,jsmith@me.com,219301755,pending,_mail_,_name_
-vtgrbhy,carreras@msn.com,219301756,pending,_mail_,_name_
-vtgrbhy,fatelk@att.net,219301757,pending,_mail_,_name_
-vtgrbhy,world@me.com,219301758,pending,_mail_,_name_
-vtgrbhy,hllam@verizon.net,219301759,pending,_mail_,_name_
-vtgrbhy,yruan@sbcglobal.net,219301760,pending,_mail_,_name_
-vtgrbhy,mailarc@sbcglobal.net,219301761,pending,_mail_,_name_
-vtgrbhy,lauronen@mac.com,219301762,pending,_mail_,_name_
-vtgrbhy,itstatus@att.net,219301763,pending,_mail_,_name_
-vtgrbhy,jgoerzen@att.net,219301764,pending,_mail_,_name_
-vtgrbhy,cosimo@aol.com,219301765,pending,_mail_,_name_
-vtgrbhy,ebassi@outlook.com,219301766,pending,_mail_,_name_
-vtgrbhy,amichalo@aol.com,219301767,pending,_mail_,_name_
-vtgrbhy,druschel@live.com,219301768,pending,_mail_,_name_
-vtgrbhy,snunez@hotmail.com,219301769,pending,_mail_,_name_
-vtgrbhy,mglee@live.com,219301770,pending,_mail_,_name_
-vtgrbhy,codex@msn.com,219301771,pending,_mail_,_name_
-vtgrbhy,bebing@msn.com,219301772,pending,_mail_,_name_
-vtgrbhy,glenz@gmail.com,219301773,pending,_mail_,_name_
-vtgrbhy,konst@msn.com,219301774,pending,_mail_,_name_
-vtgrbhy,jbarta@icloud.com,219301775,pending,_mail_,_name_
-vtgrbhy,bsikdar@aol.com,219301776,pending,_mail_,_name_
-vtgrbhy,roamer@comcast.net,219301777,pending,_mail_,_name_
+name,email,registration_number,phone_number,status,faculty_mail,faculty_name
+INDRANEEL VARMA MANTHENA,indraneel.219301066@muj.manipal.edu,219301066,-,pending,_mail_,_name_
+ARNAV SINGH,arnav.219301117@muj.manipal.edu,219301117,-,pending,_mail_,_name_
+AYUSH SRIVASTAVA,ayush.219301138@muj.manipal.edu,219301138,-,pending,_mail_,_name_
+JITENDRA CHOUDHARY,jitendra.219301150@muj.manipal.edu,219301150,-,pending,_mail_,_name_
+AYAM KAUSHIK,ayam.219301185@muj.manipal.edu,219301185,-,pending,_mail_,_name_
+HARSHITA KASAUDHAN,harshita.219301191@muj.manipal.edu,219301191,-,pending,_mail_,_name_
+ADITYA PUNMIYA,aditya.219301222@muj.manipal.edu,219301222,-,pending,_mail_,_name_
+ARUL KESWANI,arul.219301306@muj.manipal.edu,219301306,-,pending,_mail_,_name_
+GOKUL BANSAL,gokul.219301370@muj.manipal.edu,219301370,-,pending,_mail_,_name_
+ANAND RAGHAV CHOUDHARY,anand.219301396@muj.manipal.edu,219301396,-,pending,_mail_,_name_
+ADITYA BHARDWAJ,aditya.219301416@muj.manipal.edu,219301416,-,pending,_mail_,_name_
+AKSHAY SACHAN,akshay.219301481@muj.manipal.edu,219301481,-,pending,_mail_,_name_
+AESHNA DINESH KALA,aeshna.219301484@muj.manipal.edu,219301484,-,pending,_mail_,_name_
+ANIKET SHARMA,aniket.219301495@muj.manipal.edu,219301495,-,pending,_mail_,_name_
+GARVIT KOHLI,garvit.219301496@muj.manipal.edu,219301496,-,pending,_mail_,_name_
+ANURAG MODAK,anurag.219301507@muj.manipal.edu,219301507,-,pending,_mail_,_name_
+DEV SHALINKUMAR AGRAWAL,dev.219301509@muj.manipal.edu,219301509,-,pending,_mail_,_name_
+ANCHAL TYAGI,anchal.219301536@muj.manipal.edu,219301536,-,pending,_mail_,_name_
+DIVYANSHU AGARWAL,divyanshu.219301541@muj.manipal.edu,219301541,-,pending,_mail_,_name_
+ADITI GOEL,aditi.219301543@muj.manipal.edu,219301543,-,pending,_mail_,_name_
+ANSH BATHLA,ansh.219301545@muj.manipal.edu,219301545,-,pending,_mail_,_name_
+HARSHIT SINGH,harshit.219301567@muj.manipal.edu,219301567,-,pending,_mail_,_name_
+ANSH VASHIST,ansh.219301580@muj.manipal.edu,219301580,-,pending,_mail_,_name_
+ASHWIN SA,ashwin.219301650@muj.manipal.edu,219301650,-,pending,_mail_,_name_
+ABHIMANYU SINGH PANWAR,abhimanyu.219301663@muj.manipal.edu,219301663,-,pending,_mail_,_name_
+HARDIK SHARMA,hardik.219301679@muj.manipal.edu,219301679,-,pending,_mail_,_name_
+ANSHUL SHARMA,anshul.219301699@muj.manipal.edu,219301699,-,pending,_mail_,_name_
+DHRUV SEN,dhruv.219301751@muj.manipal.edu,219301751,-,pending,_mail_,_name_
+KALIDHINDI SATYA PRATHYUSHA,kalidhindi.219301766@muj.manipal.edu,219301766,-,pending,_mail_,_name_
+BHAVIKA GARG,bhavika.219302023@muj.manipal.edu,219302023,-,pending,_mail_,_name_
+ARNAV DHOK,arnav.219302195@muj.manipal.edu,219302195,-,pending,_mail_,_name_
+GURLEEN KAUR,gurleen.219302434@muj.manipal.edu,219302434,-,pending,_mail_,_name_
+CHIRAG CHETWANI,chirag.219310123@muj.manipal.edu,219310123,-,pending,_mail_,_name_
+SHIVANSH PANCHAL,shivansh.219301054@muj.manipal.edu,219301054,-,pending,_mail_,_name_
+KHUSHI GARG,khushi.219301067@muj.manipal.edu,219301067,-,pending,_mail_,_name_
+MOHIT SINHA,mohit.219301069@muj.manipal.edu,219301069,-,pending,_mail_,_name_
+SHASWAT RATH,shaswat.219301098@muj.manipal.edu,219301098,-,pending,_mail_,_name_
+SHIKHAR BHATNAGAR,shikhar.219301135@muj.manipal.edu,219301135,-,pending,_mail_,_name_
+VEDANT AGRAWAL,vedant.219301168@muj.manipal.edu,219301168,-,pending,_mail_,_name_
+MUKUL JINDAL,mukul.219301215@muj.manipal.edu,219301215,-,pending,_mail_,_name_
+RIYA SINGH,riya.219301244@muj.manipal.edu,219301244,-,pending,_mail_,_name_
+PRIYANK GIRI,priyank.219301255@muj.manipal.edu,219301255,-,pending,_mail_,_name_
+SOMYA DWIVEDI,somya.219301267@muj.manipal.edu,219301267,-,pending,_mail_,_name_
+VANISHA TYAGI,vanisha.219301323@muj.manipal.edu,219301323,-,pending,_mail_,_name_
+RHYTHM SAINI,rhythm.219301328@muj.manipal.edu,219301328,-,pending,_mail_,_name_
+KSHITIJ VIRMANI,kshitij.219301332@muj.manipal.edu,219301332,-,pending,_mail_,_name_
+NEHAL MALPANI,nehal.219301366@muj.manipal.edu,219301366,-,pending,_mail_,_name_
+NISHIT TRIPATHI,nishit.219301373@muj.manipal.edu,219301373,-,pending,_mail_,_name_
+YASHIKA,yashika.219301375@muj.manipal.edu,219301375,-,pending,_mail_,_name_
+RIYA AJAY KAMBLE,riya.219301392@muj.manipal.edu,219301392,-,pending,_mail_,_name_
+TANISHQ SAWANT,tanishq.219301420@muj.manipal.edu,219301420,-,pending,_mail_,_name_
+RAGHAV SHARMA,raghav.219301429@muj.manipal.edu,219301429,-,pending,_mail_,_name_
+SAMVRANT SAMANTARAY,samvrant.219301434@muj.manipal.edu,219301434,-,pending,_mail_,_name_
+MANYA GOEL,manya.219301436@muj.manipal.edu,219301436,-,pending,_mail_,_name_
+SAHL ALAM,sahl.219301483@muj.manipal.edu,219301483,-,pending,_mail_,_name_
+MANAL KHANDELWAL,manal.219301492@muj.manipal.edu,219301492,-,pending,_mail_,_name_
+SANA SHARMA,sana.219301628@muj.manipal.edu,219301628,-,pending,_mail_,_name_
+SHREYA,shreya.219301631@muj.manipal.edu,219301631,-,pending,_mail_,_name_
+UNZEELA TAUQIR,unzeela.219301640@muj.manipal.edu,219301640,-,pending,_mail_,_name_
+KARTIKEY CHAUHAN,kartikey.219301688@muj.manipal.edu,219301688,-,pending,_mail_,_name_
+SIDDHARTHA SARKAR,siddhartha.219301752@muj.manipal.edu,219301752,-,pending,_mail_,_name_
+SACHIN KALITA,sachin.219301763@muj.manipal.edu,219301763,-,pending,_mail_,_name_
+RISHABH KUMAR SINHA,rishabh.219301777@muj.manipal.edu,219301777,-,pending,_mail_,_name_
+SATVIK SINGH RATHORE,satvik.219310327@muj.manipal.edu,219310327,-,pending,_mail_,_name_
+ANIRUDH,anirudh.219301041@muj.manipal.edu,219301041,-,pending,_mail_,_name_
+ASTITVA GOEL,astitva.219301134@muj.manipal.edu,219301134,-,pending,_mail_,_name_
+KRITI SHARMA,kriti.219301205@muj.manipal.edu,219301205,-,pending,_mail_,_name_
+AQUIB MOHAMMAD ASLAM ANSARI,aquib.219301212@muj.manipal.edu,219301212,-,pending,_mail_,_name_
+ARNAV SINGHAL,arnav.219301216@muj.manipal.edu,219301216,-,pending,_mail_,_name_
+AYAN PANCHARIYA,ayan.219301236@muj.manipal.edu,219301236,-,pending,_mail_,_name_
+KHUSHI GUPTA,khushi.219301242@muj.manipal.edu,219301242,-,pending,_mail_,_name_
+JAIDITYA CHOUDHARY,jaiditya.219301246@muj.manipal.edu,219301246,-,pending,_mail_,_name_
+HARSH SHARMA,harsh.219301260@muj.manipal.edu,219301260,-,pending,_mail_,_name_
+AKSHIT PAREEK,akshit.219301354@muj.manipal.edu,219301354,-,pending,_mail_,_name_
+ARUN KUMAR TEPAN,arun.219301355@muj.manipal.edu,219301355,-,pending,_mail_,_name_
+DIBEK TODI,dibek.219301358@muj.manipal.edu,219301358,-,pending,_mail_,_name_
+CHIRAG PAUL,chirag.219301423@muj.manipal.edu,219301423,-,pending,_mail_,_name_
+KANISHK GUPTA,kanishk.219301424@muj.manipal.edu,219301424,-,pending,_mail_,_name_
+ANURAG UPADHYAY,anurag.219301444@muj.manipal.edu,219301444,-,pending,_mail_,_name_
+DIVYANSHU PATHAK,divyanshu.219301456@muj.manipal.edu,219301456,-,pending,_mail_,_name_
+ABHINAV SINHA,abhinav.219301460@muj.manipal.edu,219301460,-,pending,_mail_,_name_
+ANSHUMAN,anshuman.219301473@muj.manipal.edu,219301473,-,pending,_mail_,_name_
+DARSHAN BAINGANI,darshan.219301503@muj.manipal.edu,219301503,-,pending,_mail_,_name_
+AMAN RASTOGI,aman.219301546@muj.manipal.edu,219301546,-,pending,_mail_,_name_
+KANAV GUPTA,kanav.219301557@muj.manipal.edu,219301557,-,pending,_mail_,_name_
+ANSH KHANNA,ansh.219301558@muj.manipal.edu,219301558,-,pending,_mail_,_name_
+ADITI SINGH,aditi.219301596@muj.manipal.edu,219301596,-,pending,_mail_,_name_
+GAURAV GAKHAR,gaurav.219301635@muj.manipal.edu,219301635,-,pending,_mail_,_name_
+AAYUSH,aayush.219301669@muj.manipal.edu,219301669,-,pending,_mail_,_name_
+KARTIKEY PATIYAR,kartikey.219301684@muj.manipal.edu,219301684,-,pending,_mail_,_name_
+DRISHTI SINGH,drishti.219301698@muj.manipal.edu,219301698,-,pending,_mail_,_name_
+DEVANSH,devansh.219301712@muj.manipal.edu,219301712,-,pending,_mail_,_name_
+BHAVY CHAUDHARY,bhavy.219301734@muj.manipal.edu,219301734,-,pending,_mail_,_name_
+AADISH JAIN,aadish.219301744@muj.manipal.edu,219301744,-,pending,_mail_,_name_
+KUSHAGRA SRIVASTAVA,kushagra.219302211@muj.manipal.edu,219302211,-,pending,_mail_,_name_
+ANANT DHADDA,anant.219302311@muj.manipal.edu,219302311,-,pending,_mail_,_name_
+AISHWARYA BASLIYAL,aishwarya.219310299@muj.manipal.edu,219310299,-,pending,_mail_,_name_
+MANAS TANDON,manas.219301029@muj.manipal.edu,219301029,-,pending,_mail_,_name_
+PRIYANSH GUPTA,priyansh.219301052@muj.manipal.edu,219301052,-,pending,_mail_,_name_
+LAKSHIT SEHDEV,lakshit.219301151@muj.manipal.edu,219301151,-,pending,_mail_,_name_
+NISHITA GOGIA,nishita.219301155@muj.manipal.edu,219301155,-,pending,_mail_,_name_
+SHIKHAR SHARMA,shikhar.219301160@muj.manipal.edu,219301160,-,pending,_mail_,_name_
+VISHWAJEET SINGH RAWAT,vishwajeet.219301210@muj.manipal.edu,219301210,-,pending,_mail_,_name_
+PRATYUSH BHATNAGAR,pratyush.219301233@muj.manipal.edu,219301233,-,pending,_mail_,_name_
+PULKIT KOHLI,pulkit.219301238@muj.manipal.edu,219301238,-,pending,_mail_,_name_
+SHUBHA JAIN,shubha.219301250@muj.manipal.edu,219301250,-,pending,_mail_,_name_
+SAMYA DADHICH,samya.219301251@muj.manipal.edu,219301251,-,pending,_mail_,_name_
+SONAKSHI ARORA,sonakshi.219301266@muj.manipal.edu,219301266,-,pending,_mail_,_name_
+SHREYA GUPTA,shreya.219301280@muj.manipal.edu,219301280,-,pending,_mail_,_name_
+RAHUL SHARMA,rahul.219301311@muj.manipal.edu,219301311,-,pending,_mail_,_name_
+SARTHAK PANNU,sarthak.219301314@muj.manipal.edu,219301314,-,pending,_mail_,_name_
+TRISHAL SAINI,trishal.219301329@muj.manipal.edu,219301329,-,pending,_mail_,_name_
+SHASHWAT SHRIVASTAVA,shashwat.219301377@muj.manipal.edu,219301377,-,pending,_mail_,_name_
+SHUBH VERMA,shubh.219301439@muj.manipal.edu,219301439,-,pending,_mail_,_name_
+RIYA DUTT,riya.219301447@muj.manipal.edu,219301447,-,pending,_mail_,_name_
+SHIVANTIKA TRIPATHI,shivantika.219301463@muj.manipal.edu,219301463,-,pending,_mail_,_name_
+SHAURYA JAIN,shaurya.219301500@muj.manipal.edu,219301500,-,pending,_mail_,_name_
+SARTHAK GANGWAR,sarthak.219301534@muj.manipal.edu,219301534,-,pending,_mail_,_name_
+PRAKHAR SINGH,prakhar.219301568@muj.manipal.edu,219301568,-,pending,_mail_,_name_
+P HARIKA,p.219301608@muj.manipal.edu,219301608,-,pending,_mail_,_name_
+SAUMAY RUSTAGI,saumay.219301636@muj.manipal.edu,219301636,-,pending,_mail_,_name_
+USHA MAYURI MUPPA,usha.219301639@muj.manipal.edu,219301639,-,pending,_mail_,_name_
+PARTH SOLANKI,parth.219301652@muj.manipal.edu,219301652,-,pending,_mail_,_name_
+TANMAY KAUSHIK,tanmay.219301659@muj.manipal.edu,219301659,-,pending,_mail_,_name_
+VEDANT MAHAJAN,vedant.219301678@muj.manipal.edu,219301678,-,pending,_mail_,_name_
+MILIND SHARMA,milind.219301778@muj.manipal.edu,219301778,-,pending,_mail_,_name_
+SIDDHI TIWARI,siddhi.219302305@muj.manipal.edu,219302305,-,pending,_mail_,_name_
+RHYTHM ASHWANI,rhythm.219302431@muj.manipal.edu,219302431,-,pending,_mail_,_name_
+NIHARIKA SINGH,niharika.219310275@muj.manipal.edu,219310275,-,pending,_mail_,_name_
+SWAPNENDU SARKAR,swapnendu.219311157@muj.manipal.edu,219311157,-,pending,_mail_,_name_
+ISHA GOEL,isha.219301008@muj.manipal.edu,219301008,-,pending,_mail_,_name_
+ANANYA ADLAKHA,ananya.219301019@muj.manipal.edu,219301019,-,pending,_mail_,_name_
+AZAM KHAN,azam.219301092@muj.manipal.edu,219301092,-,pending,_mail_,_name_
+MEGHAL PALIWAL,meghal.219301096@muj.manipal.edu,219301096,-,pending,_mail_,_name_
+NAMAN SURANA,naman.219301163@muj.manipal.edu,219301163,-,pending,_mail_,_name_
+HARSHMEET PAL SINGH DIWAN,harshmeet.219301197@muj.manipal.edu,219301197,-,pending,_mail_,_name_
+ARASTU DHAKA,arastu.219301253@muj.manipal.edu,219301253,-,pending,_mail_,_name_
+LAKSHYA,lakshya.219301261@muj.manipal.edu,219301261,-,pending,_mail_,_name_
+AYUSH GOYAL,ayush.219301331@muj.manipal.edu,219301331,-,pending,_mail_,_name_
+AMAN JHA,aman.219301351@muj.manipal.edu,219301351,-,pending,_mail_,_name_
+KRITI TANEJA,kriti.219301363@muj.manipal.edu,219301363,-,pending,_mail_,_name_
+ANISH UBRIANI,anish.219301372@muj.manipal.edu,219301372,-,pending,_mail_,_name_
+AKSHAT UNIYAL,akshat.219301427@muj.manipal.edu,219301427,-,pending,_mail_,_name_
+ARYAN JOSEPH CHETTUPUZHA,aryan.219301443@muj.manipal.edu,219301443,-,pending,_mail_,_name_
+ATHARV GOEL,atharv.219301466@muj.manipal.edu,219301466,-,pending,_mail_,_name_
+AKARSH VERMA,akarsh.219301476@muj.manipal.edu,219301476,-,pending,_mail_,_name_
+ARNAV AGGARWAL,arnav.219301490@muj.manipal.edu,219301490,-,pending,_mail_,_name_
+ABHINAV VERMA,abhinav.219301494@muj.manipal.edu,219301494,-,pending,_mail_,_name_
+HARSH DARUKA,harsh.219301498@muj.manipal.edu,219301498,-,pending,_mail_,_name_
+MANAS MEHROTRA,manas.219301559@muj.manipal.edu,219301559,-,pending,_mail_,_name_
+JAY,jay.219301563@muj.manipal.edu,219301563,-,pending,_mail_,_name_
+ABHINAY GARG,abhinay.219301582@muj.manipal.edu,219301582,-,pending,_mail_,_name_
+GAURAV SEHRAWAT,gaurav.219301591@muj.manipal.edu,219301591,-,pending,_mail_,_name_
+DIKSHANT ADLAKHA,dikshant.219301618@muj.manipal.edu,219301618,-,pending,_mail_,_name_
+JASWANTH REDDY YARASI,jaswanth.219301648@muj.manipal.edu,219301648,-,pending,_mail_,_name_
+ANSH PORWAL,ansh.219301681@muj.manipal.edu,219301681,-,pending,_mail_,_name_
+ARYA DEV,arya.219301695@muj.manipal.edu,219301695,-,pending,_mail_,_name_
+KASHISH KHATRI,kashish.219301731@muj.manipal.edu,219301731,-,pending,_mail_,_name_
+KANISH GUPTA,kanish.219301748@muj.manipal.edu,219301748,-,pending,_mail_,_name_
+ISHA GUPTA,isha.219301769@muj.manipal.edu,219301769,-,pending,_mail_,_name_
+AAYUSH KUMAR,aayush.219302329@muj.manipal.edu,219302329,-,pending,_mail_,_name_
+KHUSHI SINHA,khushi.219302448@muj.manipal.edu,219302448,-,pending,_mail_,_name_
+VANSH PAHWA,vansh.219301005@muj.manipal.edu,219301005,-,pending,_mail_,_name_
+PRATYUSH KEDIA,pratyush.219301051@muj.manipal.edu,219301051,-,pending,_mail_,_name_
+SHUBHAM,shubham.219301072@muj.manipal.edu,219301072,-,pending,_mail_,_name_
+PRANAV GUPTA,pranav.219301088@muj.manipal.edu,219301088,-,pending,_mail_,_name_
+SONALI KARNEEDI,sonali.219301091@muj.manipal.edu,219301091,-,pending,_mail_,_name_
+VENKATA VYJAYANTHI PEDAPATI,venkata.219301114@muj.manipal.edu,219301114,-,pending,_mail_,_name_
+SHIVASHISH GUPTA,shivashish.219301142@muj.manipal.edu,219301142,-,pending,_mail_,_name_
+SHATODRU SARKAR,shatodru.219301158@muj.manipal.edu,219301158,-,pending,_mail_,_name_
+SWARAJ SINGH NEGI,swaraj.219301164@muj.manipal.edu,219301164,-,pending,_mail_,_name_
+SHIRIN SHARMA,shirin.219301170@muj.manipal.edu,219301170,-,pending,_mail_,_name_
+SARTHAK AGRAWAL,sarthak.219301194@muj.manipal.edu,219301194,-,pending,_mail_,_name_
+VIVAN JAISWAL,vivan.219301241@muj.manipal.edu,219301241,-,pending,_mail_,_name_
+SARTHAK SINGH,sarthak.219301283@muj.manipal.edu,219301283,-,pending,_mail_,_name_
+SHREYA SINGH,shreya.219301288@muj.manipal.edu,219301288,-,pending,_mail_,_name_
+PRIYANSHU SHARMA,priyanshu.219301347@muj.manipal.edu,219301347,-,pending,_mail_,_name_
+NAMYA CHANDEL,namya.219301404@muj.manipal.edu,219301404,-,pending,_mail_,_name_
+NAMAN SINGHAL,naman.219301542@muj.manipal.edu,219301542,-,pending,_mail_,_name_
+THANNIRU ROHAN SAI,thanniru.219301547@muj.manipal.edu,219301547,-,pending,_mail_,_name_
+TANMAY SINGH,tanmay.219301589@muj.manipal.edu,219301589,-,pending,_mail_,_name_
+NIKHIL DIXIT,nikhil.219301605@muj.manipal.edu,219301605,-,pending,_mail_,_name_
+SAURADEEP PAUL,sauradeep.219301649@muj.manipal.edu,219301649,-,pending,_mail_,_name_
+PALAK RAGHUVANSHI,palak.219301675@muj.manipal.edu,219301675,-,pending,_mail_,_name_
+NITIN GOYAL,nitin.219301701@muj.manipal.edu,219301701,-,pending,_mail_,_name_
+ZEESHAN SHAIKH,zeeshan.219301755@muj.manipal.edu,219301755,-,pending,_mail_,_name_
+PARTHA DODANIYA,partha.219301770@muj.manipal.edu,219301770,-,pending,_mail_,_name_
+RISHAV KUMAR,rishav.219301779@muj.manipal.edu,219301779,-,pending,_mail_,_name_
+TUSHAR SONI,tushar.219302271@muj.manipal.edu,219302271,-,pending,_mail_,_name_
+YUSHSVI ACHARYA,yushsvi.219302279@muj.manipal.edu,219302279,-,pending,_mail_,_name_
+SIDDHANT SASODE,siddhant.219302348@muj.manipal.edu,219302348,-,pending,_mail_,_name_
+PARTH SARTHI DIXIT,parth.219302403@muj.manipal.edu,219302403,-,pending,_mail_,_name_
+RAHUL ARORA,rahul.219310175@muj.manipal.edu,219310175,-,pending,_mail_,_name_
+SIDHANT PRASAD,sidhant.219310307@muj.manipal.edu,219310307,-,pending,_mail_,_name_
+RICHA SINGH,richa.219311156@muj.manipal.edu,219311156,-,pending,_mail_,_name_
+ANANYA JAITLY,ananya.219301061@muj.manipal.edu,219301061,-,pending,_mail_,_name_
+ADITYA AHLAWAT,aditya.219301062@muj.manipal.edu,219301062,-,pending,_mail_,_name_
+HIMANSHU DABAS,himanshu.219301082@muj.manipal.edu,219301082,-,pending,_mail_,_name_
+ISHAAN PUROHIT,ishaan.219301180@muj.manipal.edu,219301180,-,pending,_mail_,_name_
+CHITRANSH DEDHA,chitransh.219301202@muj.manipal.edu,219301202,-,pending,_mail_,_name_

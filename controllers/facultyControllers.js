@@ -59,6 +59,7 @@ exports.downpersonalsheet = async (req, res) => {
           Registration_Number: student.registration_number
             ? student.registration_number
             : "-",
+          Phone_Number: student.phone_number ? student.phone_number : "-",
           Status: student.status ? student.status : "-",
           Faculty_Mail: student.faculty_mail ? student.faculty_mail : "-",
           Faculty_Name: student.faculty_name ? student.faculty_name : "-",

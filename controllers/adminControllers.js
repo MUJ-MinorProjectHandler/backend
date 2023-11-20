@@ -120,7 +120,7 @@ exports.rejectStudent = async(req, res) =>{
 exports.getStudents = async (req, res) => {
   const search = req.query.search || "";
   const page = req.query.page || 1;
-  const ITEM_PER_PAGE = 20;
+  const ITEM_PER_PAGE = 50;
 
   const query = {
     name: { $regex: search, $options: "i" },
@@ -182,6 +182,7 @@ exports.downsheetstudent = async (req, res) => {
           registration_number: student.registration_number
             ? student.registration_number
             : "-",
+          phone_number: student.phone_number ? student.phone_number : "-", 
           status: student.status ? student.status : "-",
           faculty_mail: student.faculty_mail ? student.faculty_mail : "-",
           faculty_name: student.faculty_name ? student.faculty_name : "-",
@@ -327,10 +328,12 @@ exports.studentUpdate = async (req, res) => {
           const Status = response[x].status || "pending";
           const Faculty_mail = response[x].faculty_mail || "_mail_";
           const Faculty_name = response[x].faculty_name || "_name_";
+          const Phone_number = response[x].phone_number || "_phone_";
           stuData.push({
             email: response[x].email,
             name: response[x].name,
             registration_number: response[x].registration_number,
+            phone_number: Phone_number,
             status: Status,
             faculty_mail: Faculty_mail,
             faculty_name: Faculty_name,

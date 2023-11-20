@@ -18,6 +18,9 @@ const studentSchema = new mongoose.Schema({
     registration_number:{
         type:String,
     },
+    phone_number:{
+        type:String,
+    },
     status:{
         type:String,
     },
