@@ -205,7 +205,7 @@ exports.studentSelectedDecline = async (req, res) => {
         to: email,
         subject: "Minor Project Application Rejected",
         text: `${studentinfo.name},
-        Your application to work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again.`,
+        Your application to work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again. Link to the portal: https://mujminorproject.vercel.app`,
       };
 
       transporter.sendMail(mailOption, (error, info) => {
@@ -251,7 +251,7 @@ exports.studentDecline = async (req, res) => {
         to: email,
         subject: "Minor Project Application Rejected",
         text: `${studentinfo.name},
-        Your application to work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again.`,
+        Your application to work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again. Link to the portal: https://mujminorproject.vercel.app`,
       };
 
       transporter.sendMail(mailOption, (error, info) => {
