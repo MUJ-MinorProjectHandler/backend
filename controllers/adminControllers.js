@@ -47,7 +47,7 @@ exports.rejectStudent = async(req, res) =>{
         to: Student.email,
         subject: "Minor Project Application Rejected",
         text: `${Student.name},
-        Your application to work under ${facName} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again.`,
+        Your application to work under ${facName} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again. Link to the portal: https://mujminorproject.vercel.app`,
       };
 
       transporter.sendMail(mailOption, (error, info) => {
@@ -99,7 +99,7 @@ exports.rejectStudent = async(req, res) =>{
         to: Student.email,
         subject: "Minor Project Application Rejected",
         text: `${Student.name},
-        Your application tnto work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again.`,
+        Your application tnto work under ${facultyinfo.name} has been rejected. Please go to the Minor Project Portal and request to work under a faculty once again. Link to the portal: https://mujminorproject.vercel.app`,
       };
 
       transporter.sendMail(mailOption, (error, info) => {
