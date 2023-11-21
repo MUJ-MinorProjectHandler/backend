@@ -64,7 +64,7 @@ exports.generateRequest = async (req,res)=>{
                 to: femail,
                 subject: "Minor Project Application Request",
                 text: `${facultyname.name},
-                You have recieved a request from ${Student.name} to work under you, please open the minor project portal and take the nessessary action.`,
+                You have recieved a request from ${Student.name} to work under you, please open the minor project portal and take the nessessary action. Link for the Website is : https://mujminorproject.vercel.app`,
               };
         
               transporter.sendMail(mailOption, (error, info) => {
