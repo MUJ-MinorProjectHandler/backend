@@ -1,5 +1,6 @@
 const faculty = require("../models/facultySchema");
 const student = require("../models/studentSchema");
+const admin = require("../models/adminSchema");
 const nodemailer = require("nodemailer");
 
 
@@ -43,6 +44,16 @@ exports.facultyFullInfo = async (req,res)=>{
         res.status(400).json({ error: "Invalid Entry", error })
     }
 };
+
+exports.getLink = async(req,res)=>{
+    const Admin = await admin.findOne({ email:"minorprojecthandler@gmail.com"});
+    if(Admin){
+        res.status(200).json(Admin.description_link)
+    }
+    else{
+        res.status(400)
+    }
+}
 
 exports.generateRequest = async (req,res)=>{
     const {semail, femail} = req.body;
