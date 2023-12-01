@@ -24,7 +24,7 @@ exports.studentInfo = async(req,res)=>{
 
 
 exports.facultyInfo = async (req,res)=>{
-    const facInfo = await faculty.find({ full : false }).select({ "name": 1,"email":1,"description_link":1, "_id": 0});
+    const facInfo = await faculty.find({ full : false }).select({ "name": 1,"email":1,"noOfStudent":1, "_id": 0});
 
     if(facInfo){
         res.status(200).json(facInfo);
@@ -35,7 +35,7 @@ exports.facultyInfo = async (req,res)=>{
 };
 
 exports.facultyFullInfo = async (req,res)=>{
-    const facInfo = await faculty.find({ full : true }).select({ "name": 1,"email":1,"description_link":1, "_id": 0});
+    const facInfo = await faculty.find({ full : true }).select({ "name": 1,"email":1,"noOfStudent":1, "_id": 0});
 
     if(facInfo){
         res.status(200).json(facInfo);
