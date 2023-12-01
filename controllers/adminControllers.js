@@ -351,3 +351,23 @@ exports.studentUpdate = async (req, res) => {
   // res.status(200).json(req.file);
   // // res.json (req.file).status (200);
 };
+
+exports.setLink = async (req, res) => {
+  console.log(req.body);
+  const link = req.body;
+  const Admin = await admin.findOne({ email: "minorprojecthandler@gmail.com" });
+  // const facInfo = await faculty.findOne({ email: req.params.email });
+  if (link && Admin) {
+    const updateData = await admin.findOneAndUpdate(
+      { _id: Admin._id },
+      { $set: { description_link: link.description_link } },
+      {
+        returnOriginal: false,
+      }
+    );
+    await updateData.save();
+    res.status(200).json({ message: "Link updated successfully" });
+  } else {
+    res.status(400).json({ message: "Error! Try again after sometime" });
+  }
+};
