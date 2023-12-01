@@ -31,7 +31,7 @@ exports.rejectStudent = async(req, res) =>{
         {
           $set: {
             status: "pending",
-            category: "-"
+            category: "-",
             faculty_mail: "_mail_",
             faculty_name: "_name_",
           },
