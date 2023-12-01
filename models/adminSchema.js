@@ -15,7 +15,10 @@ const adminSchema = new mongoose.Schema({
     maxNoOfStudent:{
         type:Number,
         required:true
-    }
+    },
+    description_link:{
+        type:String,
+    },
 });
 
 const admin = new mongoose.model("admin",adminSchema);
