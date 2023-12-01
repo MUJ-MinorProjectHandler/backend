@@ -30,6 +30,9 @@ const studentSchema = new mongoose.Schema({
     faculty_name:{
         type:String,
     },
+    category:{
+        type:String,
+    },
     
 });
 
