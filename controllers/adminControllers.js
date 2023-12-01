@@ -230,9 +230,9 @@ exports.downsheetfaculty = async (req, res) => {
         csvStream.write({
           name: faculty.name ? faculty.name : "-",
           email: faculty.email ? faculty.email : "-",
-          description_link: faculty.description_link
-            ? faculty.description_link
-            : "-",
+          // description_link: faculty.description_link
+          //   ? faculty.description_link
+          //   : "-",
           noOfStudent: faculty.noOfStudent,
           full: faculty.full,
           // noOfStudent: faculty.noOfStudent ? faculty.noOfStudent : "-",
