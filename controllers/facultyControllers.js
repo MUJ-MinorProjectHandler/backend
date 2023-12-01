@@ -370,7 +370,7 @@ exports.studentAccept = async (req, res) => {
         text: `${studentinfo.name},
           Your application to work under ${facultyinfo.name} has been accepted. The Faculty will contact you for further details
           
-          Category:${category}
+          Category: ${category}
 
           
           
