@@ -31,7 +31,7 @@ router.get("/student/:email", studentControllers.studentInfo)
 
 // router.post("/faculty/checknum/:email", facultyControllers.checknum)
 
-router.post("/faculty/setlink/:email", facultyControllers.setLink)
+// router.post("/faculty/setlink/:email", facultyControllers.setLink)
 
 router.get("/faculty/maxnum",facultyControllers.maxNum)
 
@@ -50,6 +50,8 @@ router.get("/faculty/selstu/:email", facultyControllers.selectedStudents)
 router.get("/faculty/download/:email", facultyControllers.downpersonalsheet)
 
 //admin
+
+router.post("/admin/setlink", adminControllers.setLink)
 
 router.post("/admin/rejectstudent", adminControllers.rejectStudent)
 
