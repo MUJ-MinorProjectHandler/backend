@@ -268,7 +268,7 @@ exports.studentDecline = async (req, res) => {
 };
 
 exports.studentAccept = async (req, res) => {
-  const { email, facultyemail } = req.body;
+  const { email, facultyemail, category } = req.body;
   console.log(email);
   console.log(facultyemail);
 
@@ -284,6 +284,7 @@ exports.studentAccept = async (req, res) => {
         {
           $set: {
             status: "registered",
+            category: category,
             faculty_mail: facultyinfo.email,
             faculty_name: facultyinfo.name,
           },
