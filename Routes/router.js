@@ -27,6 +27,8 @@ router.post("/student/request",studentControllers.generateRequest)
 
 router.get("/student/:email", studentControllers.studentInfo)
 
+router.get("/getproblemstatement",studentControllers.getLink)
+
 //faculty
 
 // router.post("/faculty/checknum/:email", facultyControllers.checknum)
