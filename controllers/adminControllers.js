@@ -150,8 +150,9 @@ exports.getStudents = async (req, res) => {
 exports.downsheetstudent = async (req, res) => {
   try {
     const Student = await student.find();
-
-    const csvStream = CSV.format({ headers: true });
+    console.log(Student);
+    // const csvStream = CSV.format({ headers: true });
+    let csvStream=[];
 
     if (!fs.existsSync("public/files/export")) {
       if (!fs.existsSync("public/files")) {
@@ -166,32 +167,58 @@ exports.downsheetstudent = async (req, res) => {
     const writablestream = fs.createWriteStream(
       "public/files/export/minor_project_list_student.csv"
     );
-
-    csvStream.pipe(writablestream);
-
-    writablestream.on("finish", function () {
-      res.json({
-        downloadUrl: `${BACKEND_URL}/files/export/minor_project_list_student.csv`,
-      });
-    });
-
+    
     if (Student.length > 0) {
-      Student.map((student) => {
-        csvStream.write({
-          name: student.name ? student.name : "-",
-          email: student.email ? student.email : "-",
-          registration_number: student.registration_number
-            ? student.registration_number
-            : "-",
-          phone_number: student.phone_number ? student.phone_number : "-", 
-          status: student.status ? student.status : "-",
-          faculty_mail: student.faculty_mail ? student.faculty_mail : "-",
-          faculty_name: student.faculty_name ? student.faculty_name : "-",
+        Student.map((student) => {
+          csvStream.push({
+            name: student.name ? student.name : "-",
+            email: student.email ? student.email : "-",
+            registration_number: student.registration_number
+              ? student.registration_number
+              : "-",
+            phone_number: student.phone_number ? student.phone_number : "-", 
+            status: student.status ? student.status : "-",
+            faculty_mail: student.faculty_mail ? student.faculty_mail : "-",
+            faculty_name: student.faculty_name ? student.faculty_name : "-",
+          });
         });
-      });
-    }
-    csvStream.end();
-    writablestream.end();
+      }
+    
+    CSV
+    .write(csvStream, { headers: true })
+    .on("finish", function() {
+        console.log("Write to bezkoder_mongodb_fastcsv.csv successfully!");
+        res.json({
+              downloadUrl: `${BACKEND_URL}/files/export/minor_Project_list_student.csv`,
+            });
+      })
+    .pipe(writablestream);
+
+
+    // csvStream.pipe(writablestream);
+
+    // writablestream.on("finish", function () {
+    //   res.json({
+    //     downloadUrl: `${BACKEND_URL}/files/export/minor_Project_list_student.csv`,
+    //   });
+    // });
+    // if (Student.length > 0) {
+    //   Student.map((student) => {
+    //     csvStream.write({
+    //       name: student.name ? student.name : "-",
+    //       email: student.email ? student.email : "-",
+    //       registration_number: student.registration_number
+    //         ? student.registration_number
+    //         : "-",
+    //       phone_number: student.phone_number ? student.phone_number : "-", 
+    //       status: student.status ? student.status : "-",
+    //       faculty_mail: student.faculty_mail ? student.faculty_mail : "-",
+    //       faculty_name: student.faculty_name ? student.faculty_name : "-",
+    //     });
+    //   });
+    // }
+    // csvStream.end();
+    // writablestream.end();
   } catch (error) {
     console.log(error);
     res.status(401).json(error);
