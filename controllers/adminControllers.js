@@ -150,7 +150,7 @@ exports.getStudents = async (req, res) => {
 exports.downsheetstudent = async (req, res) => {
   try {
     const Student = await student.find();
-    console.log(Student);
+    // console.log(Student);
     // const csvStream = CSV.format({ headers: true });
     let csvStream=[];
 
@@ -187,7 +187,7 @@ exports.downsheetstudent = async (req, res) => {
     CSV
     .write(csvStream, { headers: true })
     .on("finish", function() {
-        console.log("Write to bezkoder_mongodb_fastcsv.csv successfully!");
+        console.log("Write to .csv successfully!");
         res.json({
               downloadUrl: `${BACKEND_URL}/files/export/minor_Project_list_student.csv`,
             });
